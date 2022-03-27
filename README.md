@@ -19,6 +19,9 @@ Checklist to be used before sending a pcb to fab. Sources I've used at end, comm
 - [ ] On power/ground plane, distribute the via density about the available space as evenly as possible.
 - [ ] Thermal relief pad used for these pads which could have cold solder joint issue (e.g., power/ground pins of through-hole parts).
 - [ ] Guard ring around crystal if using
+- [ ] Do any IOs need level shifting?
+- [ ] Have you added solder jumpers to risky lines?
+- [ ] 
 
 testing
 
