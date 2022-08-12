@@ -91,3 +91,12 @@ sources:
 - http://www.quick-teck.co.uk/TechArticleDoc/19196513481352925083.pdf
 - http://www.aqdi.com/check.htm
 - http://electronics.stackexchange.com/questions/6773/good-checklist-for-pcb-design-to-be-used-by-the-ee-not-by-the-pcb-designer
+
+
+# Arduino boot loader
+
+Follow - https://forum.arduino.cc/t/arduino-mkr-wifi-1010-boot/895758/4
+
+use the pins 9,8 and 7:
+
+![image](https://user-images.githubusercontent.com/81877258/184400822-a290c6e0-6dbf-4d32-9c95-0c6b357db8b6.png)
